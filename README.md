@@ -48,3 +48,7 @@ Elementy na stronie wraz z przykładami selektorów:
 //button[@type="submit"]
 //child::div/button
 ```
+
+# ZADANIE 4: 
+Link do dysku Google:
+https://drive.google.com/drive/u/0/folders/14qhOWXsOnVeauCRE8GYN1N06fwAkKD2P

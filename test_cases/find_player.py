@@ -26,7 +26,7 @@ class TestFindPlayer(unittest.TestCase):
         TestLoginPage.test_log_in_to_the_system(self)
 
         dashboard_page = Dashboard(self.driver)
-        dashboard_page.click_players_button()open_
+        dashboard_page.click_players_button()
 
         players_page = PlayersPage(self.driver)
         players_page.click_filter_button()

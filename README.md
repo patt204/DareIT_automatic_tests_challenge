@@ -56,5 +56,14 @@ Elementy na stronie wraz z przykładami selektorów:
 ```
 
 # ZADANIE 4: 
-Link do dysku Google:
+Link do dysku Google z odpowiedziami na subtaski 1 i 3:
 https://drive.google.com/drive/u/0/folders/14qhOWXsOnVeauCRE8GYN1N06fwAkKD2P
+
+## Subtask 1: Pisanie przypadków testowych
+Stwórz min. 5 krótkich przypadków testowych.
+
+## Subtask 2: Pisanie kodu na podstawie przypadków testowych 
+Utwórz testy automatyczne dla przypadków testowych napisanych przez Ciebie.
+
+## Subtask 3: Dodanie nagrań z uruchomionych testów na dysk google
+Za pośrednictwem aplikacji do nagrywania ekranu (np. Loom, screenpresso), nagraj jak uruchamiasz wszystkie swoje testy (utwórz 5 osobnych plików. Każde z nagrań nazwij ID TC - Pamiętaj, że każdy TC powinien mieć swoje ID) i umieść każdy plik w folderze (najlepszy format to mp4).

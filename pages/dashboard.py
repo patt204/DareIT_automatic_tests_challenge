@@ -17,8 +17,10 @@ class Dashboard(BasePage):
     matches_count_section_xpath = "// div[text() = 'Matches count'] / parent::div / parent::div"
     reports_count_section_xpath = "//div[text()='Reports count']/parent::div/parent::div"
     polish_language_xpath = "//*[text()='Polski']"
+    english_language_xpath = "//*[text()='English']"
     # TASK3 - Subtask 2: Nowy przypadek testowy
-    expected_title = "Scouts panel"
+    #expected_title = "Scouts panel"
+    expected_title = "PANEL SKAUTINGOWY"
     dashboard_url = "https://scouts-test.futbolkolektyw.pl/"
     pass
 
@@ -35,6 +37,9 @@ class Dashboard(BasePage):
 
     def click_polish_button(self):
         self.click_on_the_element(self.polish_language_xpath)
+
+    def click_english_button(self):
+        self.click_on_the_element(self.english_language_xpath)
 
     def click_players_button(self):
         self.click_on_the_element(self.players_button_xpath)

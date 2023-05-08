@@ -11,7 +11,8 @@ class LoginPage(BasePage):
     listbox_language_xpath = "//div[@aria-haspopup='listbox']"
     remaind_password_hyperlink_xpath = "//a [text()='Remind password']"
     # TASK3 - Subtask 3: Assert
-    expected_title = "Scouts panel - sign in" # TASK3 - Subtask 2: Nowy przypadek testowy
+    #expected_title = "Scouts panel - sign in" # TASK3 - Subtask 2: Nowy przypadek testowy
+    expected_title = "Scouts panel - zaloguj"
     login_url = "https://scouts-test.futbolkolektyw.pl/login" # TASK3 - Subtask 2: Nowy przypadek testowy
 
     def type_in_email(self, email):

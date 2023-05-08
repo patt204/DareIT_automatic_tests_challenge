@@ -27,6 +27,8 @@ class TestAddAPlayer(unittest.TestCase):
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
         time.sleep(3)
+        dashboard_page.click_english_button()
+        time.sleep(3)
         dashboard_page.click_add_a_player_button()
         time.sleep(3)
         add_a_player = AddAPlayer(self.driver)

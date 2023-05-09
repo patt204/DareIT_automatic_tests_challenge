@@ -67,3 +67,11 @@ Utwórz testy automatyczne dla przypadków testowych napisanych przez Ciebie.
 
 ## Subtask 3: Dodanie nagrań z uruchomionych testów na dysk google
 Za pośrednictwem aplikacji do nagrywania ekranu (np. Loom, screenpresso), nagraj jak uruchamiasz wszystkie swoje testy (utwórz 5 osobnych plików. Każde z nagrań nazwij ID TC - Pamiętaj, że każdy TC powinien mieć swoje ID) i umieść każdy plik w folderze (najlepszy format to mp4).
+
+# ZADANIE 6: 
+
+## Subtask 3: Raport z testów
+Link do dysku Google: https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16
+
+## Subtask 4: Stwórz portfolio
+Link do GitHub: https://github.com/patt204/Portfolio
